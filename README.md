@@ -1,10 +1,10 @@
-# Chipmk Tap
+# Chipmk Tap (forked)
 
 ## How do I install these formulae?
 
-`brew install chipmk/tap/<formula>`
+`brew install achernev/tap/<formula>`
 
-Or `brew tap chipmk/tap` and then `brew install <formula>`.
+Or `brew tap achernev/tap` and then `brew install <formula>`.
 
 ## Documentation
 

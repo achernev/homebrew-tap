@@ -3,10 +3,10 @@
 # PLEASE REMOVE ALL GENERATED COMMENTS BEFORE SUBMITTING YOUR PULL REQUEST!
 class DockerMacNetConnect < Formula
   desc "Connect directly to Docker-for-Mac containers via IP address 🐳 💻"
-  homepage "https://github.com/chipmk/docker-mac-net-connect"
-  version "v0.1.4"
-  url "https://github.com/chipmk/docker-mac-net-connect/archive/refs/tags/#{version}.tar.gz"
-  sha256 "291ccf1b694c645074e65a8008c918c140e4c095fbfe4a9e248c168940ef62df"
+  homepage "https://github.com/achernev/docker-mac-net-connect"
+  version "v0.1.5"
+  url "https://github.com/achernev/docker-mac-net-connect/archive/refs/tags/#{version}.tar.gz"
+  sha256 "266a4f8137ae0f79df5aacef8a4552cd4c937e61d5f37a29ead2b8c387e86847"
   license "MIT"
 
   depends_on "go" => :build
